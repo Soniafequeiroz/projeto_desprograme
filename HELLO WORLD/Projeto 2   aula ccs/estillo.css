@@ -1,0 +1,122 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16 px;
+    background: #E6E6E6;
+    
+}
+*{
+    margin:0px;
+    padding:0;
+}
+
+header{
+    background: #f7b000;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+#logo, nav{
+    padding:10px;
+    }
+
+.branco{
+color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color:#f7b600;
+   
+}
+
+a:hover{
+    color:#f7b600;
+    background: #ffffff;
+    text-decoration: underline;
+}
+
+footer{
+    padding: 15px;
+    text-align: center;
+    background: #cccccc;
+    clear:both;
+    
+}
+
+h1{
+    color: #4e4e4e;
+    font-size: 40px;
+}
+
+section {
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#post{
+    width: 660px;
+    text-align: justify;
+    float:left;
+}
+
+#sidebar{
+    width: 240px;
+    text-align: justify;
+    float:right;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+img {
+    width: 620px;
+}
+
+.dataPost {
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+    padding: 10px;
+
+}
+
+nav a:link, nav a:visited {
+    color: #ffffff;
+    padding: 8px 12px;
+}
+
+nav a:hover{
+    color: #f7b600;
+    background: #ffffff;
+    text-decoration: none;
+}
+
+.conteudo-lateral{
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #565656;
+    background: #cccccc;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+
+.texto-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+}
